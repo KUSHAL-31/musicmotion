@@ -1,14 +1,7 @@
 # Emotion based music player
 This is a project using machine learning for detecting emotions based on the expression of the users. The interface is made up of HTML, CSS and JS, and the main code is of Python.
 
-
-This code is developed in Ubuntu Linux, with eel , opencv and Python downloaded.  
-For running the code in Windows or Mac, certain path changes are required.
-
-
 Please make sure you have the following in your machine...
-
-Note: I have downloaded python using Anaconda.
 
 Python version: 3.6.5 (Try to download all python modules)(Important modules: glob, os, numpy, random, argparse, time)
 Eel version: 0.9.10 (download link: https://github.com/ChrisKnott/Eel)
